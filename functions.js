@@ -17,3 +17,7 @@ function fourTimes(n) {
 function fiveTimes(n) {
     return n * 5
 }
+
+function plusTen(n) {
+    return n + 10
+}
